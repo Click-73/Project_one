@@ -454,7 +454,7 @@
   }
 }
 .navigation__item {
-  color: #2b292d;
+  color: #2B292D;
   text-decoration: none;
   line-height: 25px;
   font-size: 18px;
@@ -538,7 +538,7 @@
     font-size: 80px;
     line-height: 78px;
     letter-spacing: -0.5px;
-    color: #2b292d;
+    color: #2B292D;
     z-index: 1;
   }
 }
@@ -575,7 +575,7 @@
   top: 0;
   right: 0;
   color: #3040c4;
-  background-color: white;
+  background-color: #fff;
   border: none;
   font-weight: 700;
   font-size: 18px;
@@ -677,7 +677,7 @@
 
 .order {
   padding: 50px 15px;
-  background-color: #F4F5F7;
+  background-color: #f4f5f7;
   display: flex;
   flex-direction: column;
 }
@@ -761,7 +761,7 @@
   }
 }
 .order__email::placeholder {
-  color: black;
+  color: #000;
 }
 @media screen and (min-width: 1400px) {
   .order__email::placeholder {
