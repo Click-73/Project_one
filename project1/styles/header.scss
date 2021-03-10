@@ -1,5 +1,5 @@
 .top-section {
-  background-color: #f3c6bd;
+  background-color: $background-color-header;
 
   @include for-large-up {
     padding-top: 39px;
@@ -9,7 +9,7 @@
 .header {
   height: 64px;
   width: 100%;
-  background-color: #fff;
+  background-color: $background-color-white;
   display: flex;
   align-items: center;
   padding-left: 15px;
@@ -19,7 +19,7 @@
     height: 62px;
     margin: auto;
     display: flex;
-    background-color: #f3c6bd;
+    background-color: $background-color-header;
   }
 
   &__button {
@@ -60,7 +60,7 @@
   }
 
   &__item {
-    color: #2b292d;
+    color: $text-color-dark-grey;
     text-decoration: none;
     line-height: 25px;
     font-size: 18px;

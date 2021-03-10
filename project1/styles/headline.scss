@@ -23,7 +23,7 @@
       font-size: 80px;
       line-height: 78px;
       letter-spacing: -0.5px;
-      color: #2b292d;
+      color: $text-color-dark-grey;
       z-index: 1;
     }
   }
@@ -57,8 +57,8 @@
     position: relative;
     top: 0;
     right: 0;
-    color: #3040c4;
-    background-color: white;
+    color: $text-color-blue-two;
+    background-color: $background-color-white;
     border: none;
     font-weight: 700;
     font-size: 18px;
