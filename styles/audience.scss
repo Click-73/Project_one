@@ -1,6 +1,7 @@
 .audience {
     background-color: $background-color-audience;
     width: max;
+    margin-top: 10px;
      
     @include for-large-down {
          padding-bottom: 50px;
