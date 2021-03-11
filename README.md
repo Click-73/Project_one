@@ -1,5 +1,5 @@
 <main style="margin-left: 20px; color: red;" >
-<h4>This is my first landing page https://github.com/Click-73/Project_one</h4>
+<h4>This is my first landing page https://click-73.github.io/project_one/</h4>
 
 <h4>Tech Stack :</h4> 
 <ul>
